@@ -10,3 +10,6 @@
         --secundary-color: #F05454;
         --font:  font-family: 'Inconsolata';
     }
+    body {
+        background-color: var(--bg-color);
+        }
